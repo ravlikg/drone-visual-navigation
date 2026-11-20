@@ -1,0 +1,6 @@
+# input data from the It-Jim task is not redistributed: put it into data/
+data/*
+!data/README.txt
+__pycache__/
+*.pyc
+.venv/
